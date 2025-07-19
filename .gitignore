@@ -1,3 +1,7 @@
+.venv
+assets/images
+assets/presentations
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
